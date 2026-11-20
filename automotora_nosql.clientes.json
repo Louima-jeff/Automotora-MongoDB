@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6af5aa50bee8af64f9f68142"
+  },
+  "nombre": "Juan Perez",
+  "telefono": "987654321",
+  "ciudad": "Rancagua",
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af5aa50bee8af64f9f68143"
+  },
+  "nombre": "Maria Lopez",
+  "telefono": "912345678",
+  "ciudad": "Valparaiso",
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6afa3950f92235d6721da59f"
+  },
+  "nombre": "Carlos Diaz",
+  "telefono": "998765432",
+  "ciudad": "Concepcion",
+  "estado": "Activo"
+}]
